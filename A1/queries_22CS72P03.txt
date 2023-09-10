@@ -1,4 +1,4 @@
-.I 001	similarity laws must obeyed constructing aeroelastic models heated high speed aircraft
+001	similarity laws must obeyed constructing aeroelastic models heated high speed aircraft
 002	structural aeroelastic problems associated flight high speed aircraft
 004	problems heat conduction composite slabs solved far
 008	criterion developed show empirically validity flow solutions chemically reacting gas mixtures based simplifying assumption instantaneous local chemical equilibrium
